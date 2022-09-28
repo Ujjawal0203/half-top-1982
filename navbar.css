@@ -1,19 +1,13 @@
 #nav-top{
     display: flex;
     width: 1519.2px;
-    height: 100px;
+    height: 94px;
     /* border: 1px solid red; */
     padding: 10px 0 10px 0;
     justify-content: space-around;
 }
-#nav-top>div>div:nth-child(1){
-    border: 1px solid #9999996e;
-}
-#nav-top>div>div:nth-child(2){
-    border: 1px solid #9999996e;
-}
-#nav-top>div>div:nth-child(3){
-    border: 1px solid #9999996e;
+#search{
+    border: 1px solid #999999;
 }
 #logo{
     width:287.5px ;
@@ -30,13 +24,7 @@
     margin-top: 20px;
     display: flex;
 }
-#login_btn{
-    display: flex;
-    width: 290px;
-    height: 68px;
-    margin-top: 20px;
-    border: 1px solid red;
-}
+
 #Card>select{
     width: 217px;
     height: 50px;
@@ -70,15 +58,43 @@
     margin-left: 10px;
     color: white;
 }
-/* #login_btn{
+#login_btn{
     display: flex;
-} */
-   
-#login_btn>div>img{
-    width: 19%;
-    border: 1px solid  ;
+    width: 290px;
+    height: 55px;
+    margin-top: 20px;
+    border: 0px solid red;
     cursor: pointer;
 }
-/* #login_btn:hover{
+#login_btn>div:hover{
+    border: 0px solid red;
+}
+#login_btn>div:nth-child(1){
+    width: 19%;
+    border: 1px solid #999999;
+}
+#login_btn>div:nth-child(1):hover{
     background-color: #DD0285;
-} */
+}
+#login_btn>div:nth-child(1)>img{
+    width: 95%;
+}
+#login_btn>div:nth-child(2){
+    width: 17%;
+    border: 1px solid #999999;
+    margin-left: 10px;
+}
+#login_btn>div:nth-child(2)>img{
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#login_btn>div:nth-child(2):hover{
+    background-color: #DD0285;
+}
+#login_btn>div:nth-child(3){
+    width: 50%;
+    text-align: left;
+}
+   
+
