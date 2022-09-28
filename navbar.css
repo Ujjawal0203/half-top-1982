@@ -1,0 +1,100 @@
+#nav-top{
+    display: flex;
+    width: 1519.2px;
+    height: 94px;
+    /* border: 1px solid red; */
+    padding: 10px 0 10px 0;
+    justify-content: space-around;
+}
+#search{
+    border: 1px solid #999999;
+}
+#logo{
+    width:287.5px ;
+    height: 64px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: none;
+    cursor: pointer;
+}
+#search{
+    width: 640px;
+    height: 55px;
+    /* padding: 0 20px 0 20px; */
+    margin-top: 20px;
+    display: flex;
+}
+
+#Card>select{
+    width: 217px;
+    height: 50px;
+    border: none;
+    border-right: 1px solid #80808024;
+    text-decoration: none solid rgb(153 ,153,153);
+    color: #999999;
+    cursor: pointer;
+}
+#search>div:nth-child(2){
+    width: 390px;
+    /* border: 1px dotted red; */
+}
+#search>div:nth-child(2)>input{
+    width: 100%;
+    height: 50px;
+    border: none;
+    text-decoration: none solid rgb(153 ,153,153);
+    color: #999999;
+}
+#search>div:nth-child(3){
+    border: 1px dotted teal;
+    width: 50px;
+    /* margin-left: 250px; */
+    background-color: #DD0285;
+    cursor: pointer;
+}
+#search>div:nth-child(3)>img{
+    width: 30px;
+    margin-top: 14px;
+    margin-left: 10px;
+    color: white;
+}
+#login_btn{
+    display: flex;
+    width: 290px;
+    height: 55px;
+    margin-top: 20px;
+    border: 0px solid red;
+    cursor: pointer;
+}
+#login_btn>div:hover{
+    border: 0px solid red;
+}
+#login_btn>div:nth-child(1){
+    width: 19%;
+    border: 1px solid #999999;
+}
+#login_btn>div:nth-child(1):hover{
+    background-color: #DD0285;
+}
+#login_btn>div:nth-child(1)>img{
+    width: 95%;
+}
+#login_btn>div:nth-child(2){
+    width: 17%;
+    border: 1px solid #999999;
+    margin-left: 10px;
+}
+#login_btn>div:nth-child(2)>img{
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#login_btn>div:nth-child(2):hover{
+    background-color: #DD0285;
+}
+#login_btn>div:nth-child(3){
+    width: 50%;
+    text-align: left;
+}
+   
+
