@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>fragrance page</title>
     <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
@@ -69,9 +69,26 @@
         </div>
         <!-- content => products and sort and pagination -->
         <div id="content">
-            <div> <hr> </div>
+            <div class="filter"> 
+
+                <select id="sort">
+                    <option value="">--sort--</option>
+                    <option value="Name">Name</option>
+                    <option value="low-high">Low To High</option>
+                    <option value="high-low">High To Low</option>
+                </select>
+
+                <div class="pagination">
+                    <button id="prev">&laquo;</button>
+                    <p id="active">1</p>
+                    <p>2</p>
+                    <button id="next">&raquo;</button>
+                </div>
+
+            </div>
             <div class="products"></div>
         </div>
+
     </div>
 </body>
 </html>
