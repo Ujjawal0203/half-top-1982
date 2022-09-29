@@ -62,11 +62,43 @@ const Pro_details = () =>{
     title.innerHTML = data.title;
     let price = document.createElement("h4");
     price.innerHTML = data.price;
-    detail.append(title,price,btn_div_main);
+
+    let input = document.createElement("input");
+    input.placeholder = "Enter pincode"
+    let button = document.createElement("button");
+    button.innerText = 'Click';
+    button.addEventListener('click',()=>{
+        alert("Stock available");
+    });
+    let div = document.createElement("div");
+    div.className = "checkaddress";
+    div.append(input,button);
+
+    detail.append(title,price,btn_div_main,div);
 
 
     let main = document.querySelector("#main");
     main.append(image_container,detail);
+
+    addToCart.addEventListener("click",()=>{
+        cart_fun(data.image,data.title,data.price);
+    })
 }
 
 Pro_details();
+
+const cart_fun = (img,title,price)=>{
+
+    let arr = JSON.parse(localStorage.getItem("database")) || [];
+
+    let obj = {
+        img,
+        title,
+        price
+    }
+    // console.log(obj);
+    arr.push(obj);
+    localStorage.setItem("database",JSON.stringify(arr));
+    alert("Item added to Cart Succesfully");
+
+}

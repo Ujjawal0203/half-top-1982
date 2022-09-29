@@ -150,4 +150,36 @@ h4{
     margin-right:25px;
 }
 
-/* all done */
+
+#sort{
+    height: 40px;
+    background-color: rgb(221, 213, 213);
+}
+
+.filter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagination{
+    display: flex;
+    align-items: center;
+    width: 15%;
+    font-size: 15px;
+}
+
+.pagination p{
+    padding: 8px 12px;
+    background-color: #ddd;
+    margin: auto;
+  
+}
+
+#next,#prev{
+    height: 35px;
+}
+
+#active{
+    background-color: rgb(221,2,133);
+}
