@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+    body{
+        background: linear-gradient(to right,blue ,rgb(209, 106, 106));
+    }
+
+    #searchResult{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        margin: auto;
+        width: 80%;
+        gap: 15px;
+
+
+    }
+
+    #searchResult>div{
+
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+        text-align: center;
+        background-color: white;
+        
+
+    }
+
+    #search{
+        padding-top: 7px;
+        padding-bottom: 7pdx;
+        margin-top: 11px;
+        margin-left:37% ;
+        width: 25%;
+        margin-bottom: 11px;
+    }
+    
+    /* img{
+        width: 100%;
+    } */
+
+    #search_btn{
+
+        padding-top: 8.5px;
+        width: 3%;
+        background-color: royalblue;
+        color: white;
+        border: none;
+        padding-bottom: 3.5px;
+        
+
+    }
+
+    </style>
+</head>
+<body>
+    <!-- <input type="text" id="search">
+    <button id="search_btn">S</button> -->
+
+    <input type="text" id="search" placeholder="Search">
+    <button id="search_btn">S</button>
+
+    <div id="searchResult"></div>
+    
+</body>
+</html>
+<script src="search.js"></script>
