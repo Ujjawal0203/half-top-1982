@@ -55,3 +55,10 @@ const append = (data,container) =>{
 }
 
 export {append};
+
+// this code is to call the navbar in anypage
+import navbar from "../components/navbar.js";
+
+let nav=document.getElementById("navbar")
+nav.innerHTML=navbar();
+console.log(nav);

@@ -1,13 +1,14 @@
 #nav-top{
     display: flex;
-    width: 1519.2px;
+    width: 1519.2px;;
     height: 80px;
     /* border: 1px solid red; */
     padding: 10px 0 10px 0;
     justify-content: space-around;
+    background-color: white;
 }
 #search{
-    border: 1px solid #999999;
+    border: 1px solid #99999985;
 }
 #logo{
     width:287.5px ;
@@ -102,10 +103,10 @@
 
 /* navbar */
 #navbar{
-    display: flex;
+    /* display: flex;
     margin: auto;
     width: 1519.2px;
-    height: 50px;
+    height: 50px; */
     /* border: 1px solid black; */
     background-color: #DD0285;
 }
@@ -179,12 +180,15 @@ span{
     position: absolute;
     top: 100%;
     width: 100%;
+    height: 500px;
     left: 0;
     opacity: 0;
     visibility: hidden;
     /* background: black; */
     /* height: 400px; */
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    z-index:9999!important;
+    background-color: white;
 }
 .megamenu >.content{
     margin-left: 50px;
@@ -234,10 +238,13 @@ p:hover{
     position: absolute;
     top: 100%;
     width: 100%;
+    height: 200px;
     left: 0;
     opacity: 0;
     visibility: hidden;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    z-index:9999!important;
+    background-color: white;
 }
 
 .nav ul li:hover .megamenu1{
@@ -275,7 +282,7 @@ button{
     color: rgb(21, 20, 20);
 }
 
-/* complete css of navbar by ansu kumari */
+
 
 
    
