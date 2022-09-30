@@ -37,15 +37,17 @@ const Pro_details = () =>{
 
         let addToCart = document.createElement("button");
         addToCart.id = 'cart';
-        addToCart.innerText = "Add To Cart";
+        addToCart.innerText = "🛒Add To Cart";
 
         //div to append heart image
         let like_div = document.createElement("div");
         like_div.id = "like";
+        like_div.style.backgroundColor = "rgb(70, 69, 69)";
+
 
         //making image tag for heart image;
-        let like_img = document.createElement("img");
-        like_img.src = "https://cdn-icons-png.flaticon.com/512/3237/3237429.png";
+        let like_img = document.createElement("div");
+        like_img.innerText = "🤍";
         like_div.append(like_img);
 
 
@@ -56,17 +58,20 @@ const Pro_details = () =>{
 
 
 
-
+//getting details contaier form html;
     let detail = document.querySelector(".details_container");
     let title = document.createElement("h2");
     title.innerHTML = data.title;
     let price = document.createElement("h4");
-    price.innerHTML = data.price;
+    price.innerHTML = "₹";
+    let span = document.createElement("span");
+    span.innerHTML = data.price;
+    price.append(span);
 
     let input = document.createElement("input");
     input.placeholder = "Enter pincode"
     let button = document.createElement("button");
-    button.innerText = 'Click';
+    button.innerText = 'CHECK';
     button.addEventListener('click',()=>{
         alert("Stock available");
     });
@@ -74,7 +79,38 @@ const Pro_details = () =>{
     div.className = "checkaddress";
     div.append(input,button);
 
-    detail.append(title,price,btn_div_main,div);
+    let policy = document.createElement("div");
+    policy.className = "policy";
+    policy.style.display = "flex";
+    policy.style.fontSize = "15px";
+    policy.style.marginTop = "10px";
+
+
+
+
+    let product_quality = document.createElement("div");
+    product_quality.innerHTML = "100% GENUINE PRODUCT"
+    let easy_return = document.createElement("div");
+    easy_return.className = "easy_return";
+    easy_return.style.display = "flex";
+    let easy_return_div1 = document.createElement("div");
+    let easy_return_div2 = document.createElement("div");
+    easy_return_div2.className = "easy_return_div2";
+
+    let easy_return_img = document.createElement("img");
+    easy_return_img.src = "https://www.beautybebo.com/pub/media/wysiwyg/return_product.png"
+
+    easy_return_div1.append(easy_return_img);
+    easy_return_div2.innerHTML = "EASY RETURN POLICY";
+
+    easy_return.append(easy_return_div1,easy_return_div2);
+
+
+    policy.append(product_quality,easy_return)
+
+
+
+    detail.append(title,price,btn_div_main,div,policy);
 
 
     let main = document.querySelector("#main");
@@ -82,7 +118,7 @@ const Pro_details = () =>{
 
     addToCart.addEventListener("click",()=>{
         cart_fun(data.image,data.title,data.price);
-    })
+    });
 }
 
 Pro_details();

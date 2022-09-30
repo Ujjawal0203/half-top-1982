@@ -38,7 +38,7 @@ h3{
     width: 76%;
 }
 
-.card:hover{
+.card :hover{
     cursor: pointer;
 }
 
@@ -123,8 +123,7 @@ h4{
     background-color: rgb(221,2,133);
     color: white;
     border: none;
-    border-radius: 20px;
-    cursor: pointer;
+    border-radius: 10px;
 }
 
 #like{
@@ -132,7 +131,6 @@ h4{
     display: flex;
     justify-content: center;
     cursor: pointer;
-    /* background-color: black; */
 }
 
 #like img{
@@ -183,3 +181,9 @@ h4{
 #active{
     background-color: rgb(221,2,133);
 }
+button{
+    border: none;
+    cursor: pointer;
+}
+
+
