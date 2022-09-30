@@ -1,6 +1,6 @@
 #nav-top{
     display: flex;
-    width: 1519.2px;;
+    width: 1519.2px;
     height: 80px;
     /* border: 1px solid red; */
     padding: 10px 0 10px 0;
@@ -139,11 +139,12 @@
     font-weight: bold;
 }
 .nav ul li a{
+    
     text-decoration: none;
     color: white;
 }
 .nav ul li a{
-    padding: 5px 15px;
+    padding: 13px 15px;
     /* background: #b90571; */
     display: block;
     border-radius: 5px;
@@ -180,7 +181,7 @@ span{
     position: absolute;
     top: 100%;
     width: 100%;
-    height: 500px;
+    /* height: 500px; */
     left: 0;
     opacity: 0;
     visibility: hidden;
@@ -191,7 +192,7 @@ span{
     background-color: white;
 }
 .megamenu >.content{
-    margin-left: 50px;
+    margin-left: 20px;
     /* border: 1px solid red; */
 }
 
@@ -200,15 +201,18 @@ span{
     visibility: visible;
 } 
 h4{
+    margin-top: 10px;
     margin-left: 10px;
     color: black;
     
 }
 p{
+    margin-top: 10px;
     margin-left: 10px;
     color: #999999;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
+    padding: 4px;
 }
 p:hover{
     color: #DD0285;
@@ -224,6 +228,8 @@ p:hover{
     width: 25%;
     opacity: 0;
     visibility: hidden;
+    z-index:9999!important;
+    background-color: white;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 .nav ul li:hover .frag{
@@ -272,7 +278,7 @@ button{
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(6,1fr);
-    grid-template-rows: repeat(2,1fr);
+    grid-template-rows: repeat(2,40px);
 }
 .brand>div{
     border: 1px solid rgb(168, 165, 165);
