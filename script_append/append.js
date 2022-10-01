@@ -70,3 +70,10 @@ import navbar from "../components/navbar.js";
 let nav=document.getElementById("navbar")
 nav.innerHTML=navbar();
 console.log(nav);
+
+
+
+// import footer from "../components/footer.js";
+
+// let footer=document.getElementById("footer");
+// footer.innerHTML=footer();

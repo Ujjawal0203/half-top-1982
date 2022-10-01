@@ -47,7 +47,7 @@ function navbar(){
 
         </div>
         <div id="aa">
-            <a href="#">Login/</a><a href="#">Register</a>
+            <a href="login.html">Login/</a><a href="register.html">Register</a>
         </div>
 
     </div>
@@ -307,7 +307,7 @@ function navbar(){
                             <div class="top">
                                 <h4>Top Brands</h4>
                             </div>
-                            <div><button>View all</button></div>
+                            <div><button id="btn" >View all</button></div>
                         </div><br>
                         <div class="brand">
                             <div>
@@ -373,3 +373,6 @@ function navbar(){
     `
 }
 export default navbar;
+
+
+
