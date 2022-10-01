@@ -53,7 +53,7 @@ function navbar(){
     </div>
 
 </div>
-<!-- navbar part2 -->
+<!--- navbar part2 --->
 <div id="navbar">
     <div class="main">
         <div class="nav">
