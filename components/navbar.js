@@ -1,4 +1,4 @@
-function navbar(){
+function navbar() {
     return `
 
     <div id="nav-top">
@@ -47,7 +47,7 @@ function navbar(){
 
         </div>
         <div id="aa">
-            <a href="#">Login/</a><a href="#">Register</a>
+            <a href="login.html">Login/</a><a href="register.html">Register</a>
         </div>
 
     </div>
