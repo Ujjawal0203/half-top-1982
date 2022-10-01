@@ -1,3 +1,14 @@
+//importing navbar below;
+
+
+import {My_navbar} from "./components/R_navbar.js";
+let navbar_div = document.getElementById("navbar");
+navbar_div.innerHTML = My_navbar();
+
+
+//importing navbar above;
+
+
 //importing append function;
 import {append} from "./script_append/append.js";
 
@@ -480,10 +491,6 @@ const my_sort = () =>{
         dom(data3,container);
     }
 }
-
-
-
-
 
 
 

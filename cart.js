@@ -1,6 +1,8 @@
 //import navbar here-------;
 
-//code;
+import {My_navbar} from "./components/R_navbar.js";
+let navbar_div = document.getElementById("navbar");
+navbar_div.innerHTML = My_navbar();
 
 //impot navbar above-------;
 

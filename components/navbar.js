@@ -1,4 +1,4 @@
-function navbar(){
+function navbar() {
     return `
 
     <div id="nav-top">
