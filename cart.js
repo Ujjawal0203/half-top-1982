@@ -1,8 +1,6 @@
 //import navbar here-------;
 
-import {My_navbar} from "./components/R_navbar.js";
-let navbar_div = document.getElementById("navbar");
-navbar_div.innerHTML = My_navbar();
+//code;
 
 //impot navbar above-------;
 
@@ -25,13 +23,8 @@ const append = () =>{
         
         title.innerHTML = element.title;
         let price = document.createElement("h3");
-        price.innerHTML = "₹";
-        let span = document.createElement("span");
-        span.innerText = element.price;
-        price.append(span);
-
+        price.innerHTML = element.price;
         price.style.marginTop = "0px"
-        console.log(price);
         total  = total + Number(element.price);
 
         let input = document.createElement('input');

@@ -33,9 +33,21 @@ body {
     border: 0;
 }
 
+#FRAGRANCE{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    
 
+}
+button{
+    cursor: pointer;
+}
+h3{
+    cursor: pointer;
+}
 
-.autocom-box {
+/* .autocom-box {
     max-height: 280px;
     z-index: 1;
     position: absolute;
@@ -48,9 +60,9 @@ body {
     opacity: 1;
     pointer-events: auto;
 
-}
+} */
 
-
+/* 
 
 .autocom-box li {
     display: block;
@@ -77,112 +89,24 @@ body {
 
 }
 
-#navbarS {
-    height: 92px;
-    width: 1423px;
-    /* border: 1px solid black; */
-    margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
 
-
-}
 
 #logoS {
     height: 64px;
     width: 287.5px;
     /* border: 1px solid black; */
-}
 
-#searchS {
+
+/* #searchS {
     height: 49px;
     width: 635px;
     border: 1px solid black;
     display: flex;
     align-items: center;
 
-}
-
-#AllCat {
-    height: 45px;
-    width: 220px;
-    /* border: 1px solid black; */
-}
-
-#AllCat>select {
-    height: 100%;
-    width: 100%;
-    padding: 8px;
-    border: none;
-}
-
-#IP {
-    height: 42px;
-    width: 350px;
-    font-size: 18px;
-    border: none;
-}
+} */
 
 
-#sub>button {
-    height: 50px;
-    border-radius: 0px 3px 3px 0px;
-    width: 100%;
-    border: 1px solid black;
-    border: none;
-    background-color: #dd0285;
-}
-
-#sub>button>img {
-    height: 90%;
-    width: 60%;
-    border-radius: 40px;
-    /* border: 1px solid black; */
-}
-
-#sub {
-    height: 100%;
-    width: 11%;
-    background-color: #dd0285;
-    border-radius: 0px 3px 3px 0px;
-}
-
-#w {
-    height: 60%;
-    /* border: 1px solid black; */
-    width: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.whist {
-    height: 100%;
-    width: 20%;
-    border: 1px solid black;
-
-}
-
-.whist:hover {
-    background-color: #dd0285;
-}
-
-.whist>img {
-    height: 100%;
-    width: 100%;
-    cursor: pointer;
-}
-
-#accu {
-    height: 100%;
-    width: 25%;
-    border: 1px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
 
 #accu>img {
     height: 80%;
@@ -199,6 +123,7 @@ body {
 
 #UserName {
     margin-left: 5px;
+    margin-top: 21px;
 }
 
 /* subham footer */
@@ -226,73 +151,9 @@ body {
     border: 1px solid white;
 } */
 
-#firstF>p {
-    margin-bottom: 25px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #666666;
-}
 
-#firstF>:first-child {
-    font-weight: 700;
-    font-size: 22px;
-    color: white;
-}
 
-#secondF ul>li {
-    margin-bottom: 13px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #666666;
-}
 
-#secondF>:first-child {
-    font-weight: 700;
-    font-size: 22px;
-    color: white;
-    margin-bottom: 18px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-#thirdF ul>li {
-    margin-bottom: 13px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #666666;
-}
-
-#thirdF>:first-child {
-    font-weight: 700;
-    font-size: 22px;
-    color: white;
-    margin-bottom: 18px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-#fourthF ul>li {
-    margin-bottom: 13px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #666666;
-}
-
-#fourthF>:first-child {
-    font-weight: 700;
-    font-size: 22px;
-    color: white;
-    margin-bottom: 18px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
-#LF {
-    height: 20%;
-    /* border: 1px solid white; */
-    width: 90%;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-}
-
-#LF img {
-    height: 50%;
-    width: 25%;
-}
 
 #signFoo {
     height: 70%;
@@ -644,29 +505,10 @@ body {
 #list>p {
     line-height: 20px;
     word-spacing: 8px;
-}
-
-
-/*  skin section */
-
-/* fieldset {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    border: none;
-    margin-top: 15px;
-}
-
-fieldset>div>input {
-    margin-right: 10px;
-    margin-top: 5px;
-}
-
-fieldset>div>label,
-#list>p {
-    font-weight: 400;
-    font-size: 14px;
 } */
+
+
+
 
 
 #product-list{
@@ -720,3 +562,9 @@ fieldset>div>label,
     background-color: #cb5c9f;
     padding-top:7.5px;
 }
+
+
+/* //////////////////////////// */
+
+
+
