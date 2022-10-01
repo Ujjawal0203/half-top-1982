@@ -9,20 +9,73 @@ const append = (data,container) =>{
         let img = document.createElement("img");
         img.src = element.img;
         let title = document.createElement("p");
+        title.style.height = "45px";
+        // title.style.border = "1px solid yellow";
         title.innerText = element.title;
-        title.style.height = "20px";
-        let price = document.createElement("h4");
+
+        let title_div = document.createElement("div");
+        title_div.style.height = "73px";
+        // title_div.style.border = "1px solid green";
+
+
+
+        title_div.append(title);                //appending title to title_div here
+
+
+        // if(element.discount==undefined){
+        //     title_div.append(title);
+        // }else{
+        //     title_div.append(title,discount);
+        // }
+
+       
+        let price = document.createElement("h1");
         price.innerText = "₹";
         let span = document.createElement("span");
-        span.innerText = element.price;
+        span.innerText = `${element.price}`;
         span.id = "num";
         price.append(span);
+
+        let actual = document.createElement("h3");
+        actual.id = "actual";
+        actual.innerText =  `₹${element.actual}`;
+        actual.style.textDecoratarion = "line-through";
+        // actual.style.color = "#ddd";
+
+
+
+        let price_div = document.createElement('div');
+        price_div.style.display = "flex";
+        price_div.style.alignItems = "center";
+        price_div.style.justifyContent = "space-evenly";
+        // price_div.style.border = "1px solid black";
+        price_div.style.margin = "auto";
+        price_div.style.width = "150px";
+
+        let discount = document.createElement("h3");
+        discount.className = "discount";
+        discount.innerText = element.discount;
+
+        if(element.actual==undefined && element.discount==undefined){
+            price_div.append(price);
+        }
+        else{
+            price_div.append(actual,price,discount);
+        }
+        
+        // if(element.actual == undefined){
+        //     price_div.append(price);
+        // }
+        // else{
+        //     price_div.append(actual,price);
+        // }
+
 
         //making buttons---------------------;
         //btn_div_main is main div we will append add to cart and image/heart in this div;
         let btn_div_main = document.createElement("div");
         btn_div_main.id = "buttons";
-        btn_div_main.style.marginBottom ="20px";
+        btn_div_main.style.marginBottom ="40px";
 
         let addToCart = document.createElement("button");
         addToCart.id = 'cart';
@@ -48,7 +101,32 @@ const append = (data,container) =>{
         let div = document.createElement("div");
         div.className = "card";
 
-        div.append(img,title,price,btn_div_main);
+
+        // if(element.discount==undefined){
+        //     div.append(img,title_div,price,btn_div_main);
+        // }
+        // else{
+        //     div.append(img,discount,title_div,price,btn_div_main);
+        // }
+//appending to the dom--------------------------------------------------------;;
+
+
+        
+
+
+        // let pri_dis_div = document.createElement('div');
+        // pri_dis_div.style.display = "flex";
+        // pri_dis_div.append(title_div,price_div);
+        // // div.append(img,title_div,price_div,btn_div_main);     
+
+       
+
+
+
+
+        div.append(img,title_div,price_div,btn_div_main);           //appending all  here-------------
+
+
         div.addEventListener('click',()=>{
             let obj = {
                 image: element.img,
@@ -63,10 +141,3 @@ const append = (data,container) =>{
 }
 
 export {append};
-
-// this code is to call the navbar in anypage
-import navbar from "../components/navbar.js";
-
-let nav=document.getElementById("navbar")
-nav.innerHTML=navbar();
-console.log(nav);

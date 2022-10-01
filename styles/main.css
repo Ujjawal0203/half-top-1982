@@ -102,7 +102,7 @@ h3{
     text-align: center;
 }
 
-h4{
+h1{
     color: rgb(221,2,133);
 }
 
@@ -186,4 +186,11 @@ button{
     cursor: pointer;
 }
 
+.discount{
+    color: green;
+}
 
+#actual{
+    text-decoration: line-through;
+    color: rgb(107, 107, 107);
+}
