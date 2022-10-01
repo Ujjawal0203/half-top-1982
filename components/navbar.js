@@ -307,7 +307,7 @@ function navbar() {
                             <div class="top">
                                 <h4>Top Brands</h4>
                             </div>
-                            <div><button>View all</button></div>
+                            <div><button id="btn" >View all</button></div>
                         </div><br>
                         <div class="brand">
                             <div>
@@ -373,3 +373,6 @@ function navbar() {
     `
 }
 export default navbar;
+
+
+
