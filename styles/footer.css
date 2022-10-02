@@ -3,6 +3,8 @@
     height: 460px;
     background-color: #343333;
     border-top: 2px solid #DD0258;
+    margin-top: 21px;
+    padding-top: 19px;
 }
 .footer_div{
     display:grid;
@@ -24,6 +26,7 @@
 .para>a {
     text-decoration: none;
     color: #c6c6c6;
+    
 }
 .para>a:hover{
    color: #DD0258;
@@ -45,6 +48,7 @@
 #middle_part h3{
     color: #fff;
     margin-left: 10px;
+    
 }
 #middle_part a {
    color: #c6c6c6;
@@ -97,3 +101,6 @@ input{
     color: #c6c6c6;
     text-align: center;
 }
+
+
+
