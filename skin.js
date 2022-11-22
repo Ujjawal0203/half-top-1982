@@ -1,7 +1,7 @@
 
 
 
-import { product, sortingData } from "./Data//productData.js";
+import { product, sortingData } from "./Data/productData.js";
 
 import displayItems from "./script_append/append2.js"
 let product_list=document.getElementById("product-list");

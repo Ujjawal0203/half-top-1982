@@ -3,7 +3,7 @@ let product = {
 
     makeup: [
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg',
             title: 'Miss Claire Eyelash Glue - Clear Tone',
             weight: '(50gm)',
             quantity: 1,
@@ -21,14 +21,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/produ…ae888adf23d57cf627ad/5/1/51ccwnye-ks._sl1094_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg', 'https://www.beautybebo.com/media/catalog/produ…ae888adf23d57cf627ad/5/1/51ccwnye-ks._sl1094_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
             title: 'Maybelline New York Fit Me Primer - Dewy+Smooth',
             weight: '(30ml)',
             quantity: 1,
@@ -46,14 +46,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg',
             title: 'L Oreal Paris Infallible Full Wear Concealer',
             weight: '(15ml)',
             quantity: 1,
@@ -71,14 +71,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/2/a2860a56902395735908_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/2/a2860a56902395735908_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg',
             title: 'Faces Canada Ultime Pro Matte Play Eyeliner',
             weight: '(2.5ml)',
             quantity: 1,
@@ -96,14 +96,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61hxjstvins._sl1500_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61hxjstvins._sl1500_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
             title: 'L Oreal Paris Infallible Lasting Primer',
             weight: '(30ml)',
             quantity: 1,
@@ -121,14 +121,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg',
             title: 'LOreal Paris Flash Cat Eye Eyeliner - Black',
             weight: '(0.6gm)',
             quantity: 1,
@@ -146,14 +146,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw127.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw127.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg',
             title: 'LOreal Paris Kajal Magique - Supreme Black',
             weight: '(.35gm)',
             quantity: 1,
@@ -171,14 +171,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/3/23_11.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/3/23_11.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg',
             title: 'LOreal Paris False Lash Superstar Mascara - Blac',
             weight: '(13ml)',
             quantity: 1,
@@ -196,14 +196,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor26.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor28.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor26.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor28.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg',
             title: 'LOreal Paris Volume Million Lashes Mascara - Extra-Black',
             weight: '(10.7ml)',
             quantity: 1,
@@ -221,14 +221,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor25.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor25.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg',
             title: 'Maybelline New York Fit Me Concealer - 10 Light',
             weight: '(6.8ml)',
             quantity: 1,
@@ -246,14 +246,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/_/2/.28.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/_/2/.28.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg',
             title: 'Maybelline New York The Blushed Nudes Eye Shadow Palette',
             weight: '(9gm)',
             quantity: 1,
@@ -271,14 +271,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/3/c39.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/3/c39.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg',
             title: 'Maybelline New York The Nudes Eyeshadow Palette',
             weight: '(9gm)',
             quantity: 1,
@@ -296,14 +296,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/1/m1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/2/m2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/1/m1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/2/m2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg',
             title: 'Maybelline New York Facestudio Master Blush Color & Highlight Kit',
             weight: '(13.5gm)',
             quantity: 1,
@@ -321,14 +321,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/_/2_169_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/_/1_208_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/_/2_169_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/_/1_208_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg',
             title: 'Maybelline New York Strobing Stick Set',
             weight: '(5gm)',
             quantity: 1,
@@ -346,14 +346,14 @@ let product = {
             productCategory: 'Lips',
             skinType: 'All Skin Type',
             shades: 'Nude Brown',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg',
             title: 'Blue Heaven Lipstick Walk Free',
             weight: '(4gm)',
             quantity: 1,
@@ -371,14 +371,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/w/a/walkfree_14_1_1_25_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/w/a/walkfree_14_1_1_25_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg',
             title: 'Blue Heaven Flawless Makeup Oil Free Base Primere',
             weight: '(30gm)',
             quantity: 1,
@@ -396,14 +396,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg',
             title: 'Blue Heaven Saphire Make Up Translucent Powder - Natural - Pack Of 2',
             weight: '(20gm Each)',
             quantity: 1,
@@ -421,14 +421,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/b/bbv.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/s/dsdssds.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/b/bbv.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/s/dsdssds.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png',
             title: 'Blue Heaven Artisto Twin One Eye Kit Kajal',
             weight: '(0.55ml + 0.30gm)',
             quantity: 1,
@@ -446,14 +446,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/h/2/h2_1.png', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/h/bh3_1.png'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/h/2/h2_1.png', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/h/bh3_1.png'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
             title: 'Blue Heaven Artisto Kajal',
             weight: '(3.25gm)',
             quantity: 1,
@@ -471,14 +471,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg',
             title: 'Blue Heaven Walk Free Matte Eyeliner - Yellow Pack',
             weight: '(9ml)',
             quantity: 1,
@@ -496,14 +496,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/0/0/0001.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/-/1---copy.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/0/0/0001.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/-/1---copy.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
             title: 'L Oreal Paris Infallible Lasting Primer',
             weight: '(30ml)',
             quantity: 1,
@@ -521,7 +521,7 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
@@ -531,7 +531,7 @@ let product = {
 
     skin: [
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg',
             title: 'Lotus Herbals Whiteglow Vitamin C Radiance Cream Spf 20',
             weight: '(50gm)',
             quantity: 1,
@@ -549,14 +549,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
             title: 'WOW Skin Science Caffeine Face Serum',
             weight: '(30ml)',
             quantity: 1,
@@ -574,14 +574,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg',
             title: 'WOW Skin Science Activated Charcoal Face Mask',
             weight: '(200ml)',
             quantity: 1,
@@ -599,14 +599,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-3_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-3_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg',
             title: 'Lotus Organics+ Bakuchiol Plant Retinol Miracle Facial Oil',
             weight: '(15ml)',
             quantity: 1,
@@ -624,14 +624,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg',
             title: 'Organic Harvest Masseuscious Damage Control Cleanser With Acai Berry',
             weight: '(150ml)',
             quantity: 1,
@@ -649,14 +649,14 @@ let product = {
             productCategory: 'Eyes',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/3/53f7f568906080030383_rvn2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/3/53f7f568906080030383_rvn2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg',
             title: 'WOW Skin Science AM2PM Sunscreen SPF 50 Lotion',
             weight: '(100ml)',
             quantity: 1,
@@ -674,14 +674,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901495_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901495_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg',
             title: 'WOW Skin Science Activated Charcoal Peel Off Face Mask',
             weight: '(100ml)',
             quantity: 1,
@@ -699,14 +699,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/f/d/fd794d08904304373124_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/f/d/fd794d08904304373124_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg',
             title: 'Biotique Advanced Organics Tea Tree Treament Oil Essential Oil For Face',
             weight: '(30ml)',
             quantity: 1,
@@ -724,14 +724,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/b/7ba61598904352001284_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/b/7ba61598904352001284_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg',
             title: 'WOW Skin Science Kids Cool-The-Rays Sunscreen Cream - SPF 30+ PA+++',
             weight: '(100ml)',
             quantity: 1,
@@ -749,14 +749,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901631_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901631_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg',
             title: 'WOW Skin Science Raw African Shea Body Butter',
             weight: '(200ml)',
             quantity: 1,
@@ -774,14 +774,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/e/3eb5e308904311902874_3.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/e/3eb5e308904311902874_3.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg',
             title: 'WOW Skin Science Apple Cider Vinegar Face Wash Bottle',
             weight: '(200ml)',
             quantity: 1,
@@ -799,14 +799,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/5/759639c8904311903499__3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/5/759639c8904311903499__3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
             title: 'WOW Skin Science Aloe Vera Multi-Vitamin Face Cream',
             weight: '(50ml)',
             quantity: 1,
@@ -824,14 +824,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
             title: 'WOW Skin Science Ubtan Face Serum',
             weight: '(30ml)',
             quantity: 1,
@@ -849,14 +849,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
             title: 'WOW Skin Science Himalayan Rose Foaming Face Wash With Built-In Face Brush WITH 50% EXTRA',
             weight: '(150ml)',
             quantity: 1,
@@ -874,14 +874,14 @@ let product = {
             productCategory: 'Lips',
             skinType: 'All Skin Type',
             shades: 'Nude Brown',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
             title: 'WOW Skin Science Green Tea Face Moisturizer',
             weight: '(100ml)',
             quantity: 1,
@@ -899,14 +899,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
             title: 'WOW Skin Science Pink Rose Clay Face Mask',
             weight: '(200ml)',
             quantity: 1,
@@ -924,14 +924,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
             title: 'WOW Skin Science Himalayan Rose Body Lotion',
             weight: '(400ml)',
             quantity: 1,
@@ -949,14 +949,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
             title: 'WOW Skin Science Aloe Vera Body Lotion Ultra Light Hydration - No Mineral Oil, Parabens',
             weight: '(400ml)',
             quantity: 1,
@@ -974,14 +974,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
             title: 'Lotus Organics+ Bakuchiol Plant Retinol Super Serum',
             weight: '(30ml)',
             quantity: 1,
@@ -999,14 +999,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901587_1__1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901587_1__1.jpg',
             title: 'WOW Skin Science UV Water Transparent Sunscreen Spray SPF 30',
             weight: '(100ml)',
             quantity: 1,
@@ -1024,14 +1024,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
             title: 'WOW Skin Science Pink Rose Clay Face Mask',
             weight: '(200ml)',
             quantity: 1,
@@ -1049,7 +1049,7 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
@@ -1059,7 +1059,7 @@ let product = {
 
     hair: [
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg',
             title: 'Dove Intense Repair Shampoo 650ml',
             weight: '(650ml)',
             quantity: 1,
@@ -1077,14 +1077,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/r/e/repair_shampoo_650-1_1_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/r/e/repair_shampoo_650-1_1_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
             title: 'WOW Skin Science 10 In 1 Miracle Hair Oil',
             weight: '(200ml)',
             quantity: 1,
@@ -1102,14 +1102,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg',
             title: 'WOW Skin Science Himalayan Rose Conditioner',
             weight: '(300ml)',
             quantity: 1,
@@ -1127,14 +1127,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/8/88b239c8904311904281__3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/8/88b239c8904311904281__3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg',
             title: 'WOW Skin Science Moroccan Argan Hair Oil - WITH COMB APPLICATOR - Cold Pressed',
             weight: '(100ml)',
             quantity: 1,
@@ -1152,14 +1152,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/4/d4fb39c8904311904267__4_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/4/d4fb39c8904311904267__4_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg',
             title: 'Organic Harvest Masseuscious Damage Control Cleanser With Acai Berry',
             weight: '(200ml)',
             quantity: 1,
@@ -1177,14 +1177,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/a/9a21c478906105615175-4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/a/9a21c478906105615175-4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg',
             title: 'Joy Natural Actives Dandruff Control And Scalp Nourish Hair Treatment Mask | With Argan, Ginger, Lemon, Olive & Tea Tree Oils',
             weight: '(150ml)',
             quantity: 1,
@@ -1202,14 +1202,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61eot19e6ll._sl1000_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61eot19e6ll._sl1000_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg',
             title: 'Joy Natural Actives Anti Hair Fall And Damage Control Hair Treatment Mask',
             weight: '(150ml)',
             quantity: 1,
@@ -1227,14 +1227,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61y3sma6ofl._sl1000_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61y3sma6ofl._sl1000_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg',
             title: 'WOW Skin Science Green Tea & Tea Tree Anti-Dandruff Shampoo',
             weight: '(300ml)',
             quantity: 1,
@@ -1252,14 +1252,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311903680_2_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311903680_2_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg',
             title: 'Organic Harvests Color Protect Quinoa Shampoo, Sulfate-Free Shampoo For Color-Treated Hair',
             weight: '(250ml)',
             quantity: 1,
@@ -1277,14 +1277,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/0/e08092aorgaa00000032_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/0/e08092aorgaa00000032_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg',
             title: 'Mamaearth Tea Tree Beard Oil With Tea Tree & Salicylic Acid For Itch-Free Beard',
             weight: '(30ml)',
             quantity: 1,
@@ -1302,14 +1302,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/t/e/tea-tree-beard-oil.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/t/e/tea-tree-beard-oil.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg',
             title: 'Schwarzkopf Osis+ Curl Honey Curl Cream',
             weight: '(150ml)',
             quantity: 1,
@@ -1327,14 +1327,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/1/81ekxtgclwl._sl1500_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/1/81ekxtgclwl._sl1500_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg',
             title: 'Schwarzkopf Professional Bonacure Hyaluronic Moisture Kick Masque Treatment',
             weight: '(200ml)',
             quantity: 1,
@@ -1352,14 +1352,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg',
             title: 'Schwarzkopf Professional Bonacure Collagen Volume Boost Micellar Shampoo',
             weight: '(250ml)',
             quantity: 1,
@@ -1377,14 +1377,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787429633_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787429633_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
             title: 'Schwarzkopf Professional Osis + Session Label Strong Hold Hair Super Dry Fix Spray',
             weight: '(300ml)',
             quantity: 1,
@@ -1402,14 +1402,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Nude Brown',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg',
             title: 'Schwarzkopf Professional OSiS+ Flatliner Heat Protection Hair Spray',
             weight: '(200ml)',
             quantity: 1,
@@ -1427,14 +1427,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787314908_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787314908_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg',
             title: 'Schwarzkopf Professional Bonacure Peptide Repair Rescue Sealed Ends',
             weight: '(75ml)',
             quantity: 1,
@@ -1452,14 +1452,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430523_1_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430523_1_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg',
             title: 'Schwarzkopf Professional Bonacure Peptide Repair Rescue Nutri-Shield Serum',
             weight: '(56ml)',
             quantity: 1,
@@ -1477,14 +1477,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430646_1_1.png'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430646_1_1.png'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg',
             title: 'Mamaearth Cold Pressed Almond Oil & Vitamin E For Healthy Hair Growth',
             weight: '(150ml)',
             quantity: 1,
@@ -1502,14 +1502,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg',
             title: 'WOW Skin Science Moroccan Argan Oil Hair Conditioner',
             weight: '(500ml)',
             quantity: 1,
@@ -1527,14 +1527,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
             title: 'WOW Skin Science Hair Mask For Dry And Damaged Hair',
             weight: '(200ml)',
             quantity: 1,
@@ -1552,14 +1552,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311902027_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311902027_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
             title: 'Schwarzkopf Professional Osis + Session Label Strong Hold Hair Super Dry Fix Spray',
             weight: '(300ml)',
             quantity: 1,
@@ -1577,7 +1577,7 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Nude Brown',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
@@ -1587,7 +1587,7 @@ let product = {
 
     personal: [
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png',
             title: 'Organic Harvest Cleansing Milk With Essential Oils',
             weight: '(100gm)',
             quantity: 1,
@@ -1605,14 +1605,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
             title: 'WOW Skin Science Caffeine Face Serum',
             weight: '(200ml)',
             quantity: 1,
@@ -1630,14 +1630,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/8/680c9508904311903031__3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/8/680c9508904311903031__3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg',
             title: 'WOW Skin Science Moroccan Rose Otto Foaming Body Wash',
             weight: '(250ml)',
             quantity: 1,
@@ -1655,14 +1655,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/c/cca52498904311901341_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/c/cca52498904311901341_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg',
             title: 'Organic Harvest Lavender Essential Oil',
             weight: '(10ml)',
             quantity: 1,
@@ -1680,14 +1680,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/407c3408908003416601_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/407c3408908003416601_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg',
             title: 'WOW Skin Science Ubtan Body Wash',
             weight: '(250ml)',
             quantity: 1,
@@ -1705,14 +1705,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/c/dcc62fd8904311902386_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/c/dcc62fd8904311902386_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg',
             title: 'Mamaearth Vitamin C Nourishing Bathing Soap With Vitamin C And Honey For Skin Illumination',
             weight: '(375gm)',
             quantity: 1,
@@ -1730,14 +1730,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va110.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va111.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va110.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va111.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
             title: 'Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E - Pack Of 2',
             weight: '(147gm each)',
             quantity: 1,
@@ -1755,14 +1755,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg',
             title: 'Vaadi Herbals Enticing Lemongrass Shower Gel',
             weight: '(300ml)',
             quantity: 1,
@@ -1780,14 +1780,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va14.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va14.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg',
             title: 'WOW Skin Science Kids Cool-The-Rays Sunscreen Cream - SPF 30+ PA+++',
             weight: '(300ml)',
             quantity: 1,
@@ -1805,14 +1805,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va10.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va10.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg',
             title: 'Vaadi Herbals Refreshing Lemon & Basil Shower Gel',
             weight: '(300ml)',
             quantity: 1,
@@ -1830,14 +1830,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be218.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be218.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg',
             title: 'O3+ D-Tan Liposoluble Wax (Italian Formula)',
             weight: '(800ml)',
             quantity: 1,
@@ -1855,14 +1855,14 @@ let product = {
             productCategory: 'Boady',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be185.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be187.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be185.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be187.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
             title: 'WOW Skin Science Aloe Vera Multi-Vitamin Face Cream',
             weight: '(50ml)',
             quantity: 1,
@@ -1880,14 +1880,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
             title: 'WOW Skin Science Ubtan Face Serum',
             weight: '(30ml)',
             quantity: 1,
@@ -1905,14 +1905,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
             title: 'WOW Skin Science Himalayan Rose Foaming Face Wash With Built-In Face Brush WITH 50% EXTRA',
             weight: '(150ml)',
             quantity: 1,
@@ -1930,14 +1930,14 @@ let product = {
             productCategory: 'Lips',
             skinType: 'All Skin Type',
             shades: 'Nude Brown',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
             title: 'WOW Skin Science Green Tea Face Moisturizer',
             weight: '(100ml)',
             quantity: 1,
@@ -1955,14 +1955,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
             title: 'WOW Skin Science Pink Rose Clay Face Mask',
             weight: '(200ml)',
             quantity: 1,
@@ -1980,14 +1980,14 @@ let product = {
             productCategory: 'Face',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
             title: 'WOW Skin Science Himalayan Rose Body Lotion',
             weight: '(400ml)',
             quantity: 1,
@@ -2005,14 +2005,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
             title: 'WOW Skin Science Aloe Vera Body Lotion Ultra Light Hydration - No Mineral Oil, Parabens',
             weight: '(400ml)',
             quantity: 1,
@@ -2030,14 +2030,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
             title: 'Lotus Organics+ Bakuchiol Plant Retinol Super Serum',
             weight: '(30ml)',
             quantity: 1,
@@ -2055,14 +2055,14 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
             title: 'WOW Skin Science UV Water Transparent Sunscreen Spray SPF 30',
             weight: '(100ml)',
             quantity: 1,
@@ -2080,14 +2080,14 @@ let product = {
             productCategory: 'Body',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
         },
         {
-            image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
+            image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
             title: 'Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E - Pack Of 2',
             weight: '(147gm each)',
             quantity: 1,
@@ -2105,7 +2105,7 @@ let product = {
             productCategory: 'Hair',
             skinType: 'All Skin Type',
             shades: 'Peach Rose',
-            multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
+            multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
             howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
@@ -2115,7 +2115,7 @@ let product = {
 
     kids: [
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/1/31_7_4.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/1/31_7_4.jpg",
             title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
             weight: "100ML",
             id: "BBJ003250",
@@ -2148,7 +2148,7 @@ let product = {
                   Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/0/30_6_4.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/0/30_6_4.jpg",
             title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
             weight: "100ML",
             id: "BBJ003250",
@@ -2181,7 +2181,7 @@ let product = {
                      Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/28_8_4.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/28_8_4.jpg",
             title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
             weight: "100ML",
             id: "BBJ003250",
@@ -2211,7 +2211,7 @@ let product = {
                      Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
             title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
             weight: "100ML",
             id: "BBJ003250",
@@ -2241,7 +2241,7 @@ let product = {
             productCatagory: "kids"
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
             title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
             weight: "100ML",
             id: "BBJ003250",
@@ -2271,7 +2271,7 @@ let product = {
             productCatagory: "kids"
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va133.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va133.jpg",
             title: "Mamaearth Milky Soft Shampoo For Kids With & Oat",
             Weight: "100ML",
             id: "BBJ003250",
@@ -2304,7 +2304,7 @@ let product = {
                  Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va96.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va96.jpg",
             titile: "Mamaearth Milky softy bar  For Babies With & Oat",
             weight: "100ML",
             id: "BBJ003250",
@@ -2338,7 +2338,7 @@ let product = {
 
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va94.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va94.jpg",
             title: "Mamaearth Milky softy bar  For BabiesRash cream",
             weight: "100ML",
             id: "BBJ003250",
@@ -2371,7 +2371,7 @@ let product = {
                  Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be176.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be176.jpg",
             title: "Mamaearth chicoo Natural shampooo ",
             weight: "100ML",
             id: "BBJ003250",
@@ -2405,7 +2405,7 @@ let product = {
                  Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm248.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm248.jpg",
             titile: "Mamaearth Perfume body mist 6 Months + - Joyful",
             weight: "100ML",
             id: "BBJ003250",
@@ -2436,7 +2436,7 @@ let product = {
              Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm232.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm232.jpg",
             titile: "Mamaearth Natural Baby Lip Balm For Babies",
             weight: "100ML",
             id: "BBJ003250",
@@ -2469,7 +2469,7 @@ let product = {
                     Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm217.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm217.jpg",
             title: "Mamaearth Gift of Nature Kit For NewBorns And Babies",
             weight: "100ML",
             id: "BBJ003250",
@@ -2497,7 +2497,7 @@ let product = {
             productCatagory: "kids",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm211.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm211.jpg",
             titile: "Mamaearth Gift of Nature Kit For NewBorns And Babies",
             weight: "100ML",
             id: "BBJ003250",
@@ -2531,7 +2531,7 @@ let product = {
                 Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm199.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm199.jpg",
             title: "Mamaearth Oraganic Bamboo Based Baby And Travel",
             weight: "100ML",
             id: "BBJ003250",
@@ -2565,7 +2565,7 @@ let product = {
                 Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_3.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_3.jpg",
             title: "Mamaearth Natural Repellent Mosquitio pathes For Babies",
             weight: "100ML",
             id: "BBJ003250",
@@ -2598,7 +2598,7 @@ let product = {
                 Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm166.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm166.jpg",
             title: "Mamaearth Mineral Based Sunscreen for Babies",
             weight: "100ML",
             id: "BBJ003250",
@@ -2631,7 +2631,7 @@ let product = {
                 Step 3 : Use it daily for best results.`,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/4/34_5_1.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/4/34_5_1.jpg",
             title: "Mamaearth fruit punch Tooth paste for kids - pack of 2",
             weight: "100ML",
             id: "BBJ003250",
@@ -2665,7 +2665,7 @@ let product = {
 
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm161.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm161.jpg",
             title: "Mamaearth Daily moisturizing Baby Lotion",
             weight: "100ML",
             id: "BBJ003250",
@@ -2702,7 +2702,7 @@ let product = {
 
     perfume: [
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
             title: "Fogg Punch Fragrance Body Spray",
             weight: "50ML",
             id: "BBJ003250",
@@ -2729,7 +2729,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo16.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo16.jpg",
             title: "Fogg Bleu Series Island Fragrance",
             weight: "50ML",
             id: "BBJ003250",
@@ -2756,7 +2756,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
             title: "Calvin Klein Eternity For Men Eau De Parfum",
             weight: "50ML",
             id: "BBJ003250",
@@ -2783,7 +2783,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo10.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo10.jpg",
             title: "Fogg Punch Fragrance Body Spray",
             weight: "50ML",
             id: "BBJ003250",
@@ -2810,7 +2810,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
             title: "Fogg Punch Fragrance Body Spray",
             quantity: "50ML",
             id: "BBJ003250",
@@ -2837,7 +2837,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo8.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo8.jpg",
             title: "Fogg Scent Xpressio Men Fragrance Body Spray",
             weight: "50ML",
             id: "BBJ003250",
@@ -2864,7 +2864,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo7.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo7.jpg",
             title: "Fogg Dynamic Fragrance Body Spray",
             weight: "50ML",
             id: "BBJ003250",
@@ -2891,7 +2891,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e55.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e55.jpg",
             title: "Engage Yin Eau De Parfum For Men",
             weight: "50ML",
             id: "BBJ003250",
@@ -2918,7 +2918,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
             title: "Fogg Punch Fragrance Body Spray",
             weight: "50ML",
             id: "BBJ003250",
@@ -2945,7 +2945,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e51.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e51.jpg",
             title: "Engage Spell Deodorant For Women",
             weight: "50ML",
             id: "BBJ003250",
@@ -2972,7 +2972,7 @@ let product = {
             ProductCatagory: "Women",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d36.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d36.jpg",
             title: "Denver Esteem Hamilton Perfume",
             weight: "50ML",
             id: "BBJ003250",
@@ -2999,7 +2999,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d35.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d35.jpg",
             title: "Denver Imperial Deodorant For Men",
             weight: "50ML",
             id: "BBJ003250",
@@ -3026,7 +3026,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
             title: "Fogg Punch Fragrance Body Spray",
             weight: "50ML",
             id: "BBJ003250",
@@ -3053,7 +3053,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d32.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d32.jpg",
             title: "Denver Srk Emperor Deodorant Autograph",
             weight: "50ML",
             id: "BBJ003250",
@@ -3080,7 +3080,7 @@ let product = {
             ProductCatagory: "Mens",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d31.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d31.jpg",
             title: "Denver Sporting Club Goal Perfume ",
             weight: "60ML",
             id: "BBJ003250",
@@ -3110,7 +3110,7 @@ let product = {
 
     ayurveda: [
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/8/18_12_3.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/8/18_12_3.jpg",
             title: "Vaadi Herbals Aloe Vera Face Scrub",
             weight: "50gm",
             id: "BBJ003250",
@@ -3142,7 +3142,7 @@ let product = {
 
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/17_14_4.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/17_14_4.jpg",
             title: "Vaadi Herbals 24 Carat Gold Massage Gel With 24 Carat",
             weight: "50gm",
             id: "BBJ003250",
@@ -3173,7 +3173,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be43.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be43.jpg",
             title: "Beeone Cucumber Facial Gel",
             weight: "50gm",
             id: "BBJ003250",
@@ -3204,7 +3204,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be46.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be46.jpg",
             title: "Beeone Diamond Facial Gel 440ml",
             weight: "440ml",
             id: "BBJ003250",
@@ -3235,7 +3235,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be97.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be97.jpg",
             title: "O3+ Volcano Scrub",
             weight: "50gm",
             id: "BBJ003250",
@@ -3266,7 +3266,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be106.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be106.jpg",
             title: "Beeone Papaya Scrub",
             weight: "50gm",
             id: "BBJ003250",
@@ -3297,7 +3297,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/6/j6.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/6/j6.jpg",
             title: "Joy Hydra Refresh Ultra Light Gel Moisturiser",
             weight: "50gm",
             id: "BBJ003250",
@@ -3328,7 +3328,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be85.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be85.jpg",
             title: "Beeone Lemon Facial Gel",
             weight: "50gm",
             id: "BBJ003250",
@@ -3354,7 +3354,7 @@ let product = {
             ProductCatagory: "Natural",
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/a/la9.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/a/la9.jpg",
             title: "L'Oreal Paris White Perfect Scrub",
             weight: "50gm",
             id: "BBJ003250",
@@ -3385,7 +3385,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/1/s1_1.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/1/s1_1.jpg",
             title: "Shahnaz Husain Gold 2-In-1 Anti Ageing Gel",
             weight: "250gm",
             id: "BBJ003250",
@@ -3416,7 +3416,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/7/s7.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/7/s7.jpg",
             title: "Shahnaz Husain Shalocks Plus Ayurvedic Hair Oil",
             weight: "50gm",
             id: "BBJ003250",
@@ -3447,7 +3447,7 @@ let product = {
              Apricot` ,
         },
         {
-            image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/288.jpg",
+            image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/288.jpg",
             title: "Himalaya Herbals Oil-Free Radiance Gel Cream",
             weight: "50gm",
             id: "BBJ003250",
@@ -3483,7 +3483,7 @@ let product = {
 
 let sortingData = [
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/8/18_12_3.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/1/8/18_12_3.jpg",
         title: "Vaadi Herbals Aloe Vera Face Scrub",
         weight: "50gm",
         id: "BBJ003250",
@@ -3515,7 +3515,7 @@ let sortingData = [
 
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/17_14_4.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/7/17_14_4.jpg",
         title: "Vaadi Herbals 24 Carat Gold Massage Gel With 24 Carat",
         weight: "50gm",
         id: "BBJ003250",
@@ -3546,7 +3546,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be43.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be43.jpg",
         title: "Beeone Cucumber Facial Gel",
         weight: "50gm",
         id: "BBJ003250",
@@ -3577,7 +3577,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be46.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be46.jpg",
         title: "Beeone Diamond Facial Gel 440ml",
         weight: "440ml",
         id: "BBJ003250",
@@ -3608,7 +3608,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be97.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be97.jpg",
         title: "O3+ Volcano Scrub",
         weight: "50gm",
         id: "BBJ003250",
@@ -3639,7 +3639,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be106.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be106.jpg",
         title: "Beeone Papaya Scrub",
         weight: "50gm",
         id: "BBJ003250",
@@ -3670,7 +3670,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/6/j6.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/j/6/j6.jpg",
         title: "Joy Hydra Refresh Ultra Light Gel Moisturiser",
         weight: "50gm",
         id: "BBJ003250",
@@ -3701,7 +3701,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be85.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be85.jpg",
         title: "Beeone Lemon Facial Gel",
         weight: "50gm",
         id: "BBJ003250",
@@ -3727,7 +3727,7 @@ let sortingData = [
         ProductCatagory: "Natural",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/a/la9.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/a/la9.jpg",
         title: "L'Oreal Paris White Perfect Scrub",
         weight: "50gm",
         id: "BBJ003250",
@@ -3758,7 +3758,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/1/s1_1.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/1/s1_1.jpg",
         title: "Shahnaz Husain Gold 2-In-1 Anti Ageing Gel",
         weight: "250gm",
         id: "BBJ003250",
@@ -3789,7 +3789,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/7/s7.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/7/s7.jpg",
         title: "Shahnaz Husain Shalocks Plus Ayurvedic Hair Oil",
         weight: "50gm",
         id: "BBJ003250",
@@ -3820,7 +3820,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/288.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/288.jpg",
         title: "Himalaya Herbals Oil-Free Radiance Gel Cream",
         weight: "50gm",
         id: "BBJ003250",
@@ -3851,7 +3851,7 @@ let sortingData = [
              Apricot` ,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
         title: "Fogg Punch Fragrance Body Spray",
         weight: "50ML",
         id: "BBJ003250",
@@ -3878,7 +3878,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo16.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo16.jpg",
         title: "Fogg Bleu Series Island Fragrance",
         weight: "50ML",
         id: "BBJ003250",
@@ -3905,7 +3905,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/8/s8.jpg",
         title: "Calvin Klein Eternity For Men Eau De Parfum",
         weight: "50ML",
         id: "BBJ003250",
@@ -3932,7 +3932,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo10.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo10.jpg",
         title: "Fogg Punch Fragrance Body Spray",
         weight: "50ML",
         id: "BBJ003250",
@@ -3959,7 +3959,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
         title: "Fogg Punch Fragrance Body Spray",
         quantity: "50ML",
         id: "BBJ003250",
@@ -3986,7 +3986,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo8.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo8.jpg",
         title: "Fogg Scent Xpressio Men Fragrance Body Spray",
         weight: "50ML",
         id: "BBJ003250",
@@ -4013,7 +4013,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo7.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/o/fo7.jpg",
         title: "Fogg Dynamic Fragrance Body Spray",
         weight: "50ML",
         id: "BBJ003250",
@@ -4040,7 +4040,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e55.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e55.jpg",
         title: "Engage Yin Eau De Parfum For Men",
         weight: "50ML",
         id: "BBJ003250",
@@ -4067,7 +4067,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
         title: "Fogg Punch Fragrance Body Spray",
         weight: "50ML",
         id: "BBJ003250",
@@ -4094,7 +4094,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e51.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/5/e51.jpg",
         title: "Engage Spell Deodorant For Women",
         weight: "50ML",
         id: "BBJ003250",
@@ -4121,7 +4121,7 @@ let sortingData = [
         ProductCatagory: "Women",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d36.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d36.jpg",
         title: "Denver Esteem Hamilton Perfume",
         weight: "50ML",
         id: "BBJ003250",
@@ -4148,7 +4148,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d35.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d35.jpg",
         title: "Denver Imperial Deodorant For Men",
         weight: "50ML",
         id: "BBJ003250",
@@ -4175,7 +4175,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/9afc37bdf46fae888adf23d57cf627ad/f/o/fo19.jpg",
         title: "Fogg Punch Fragrance Body Spray",
         weight: "50ML",
         id: "BBJ003250",
@@ -4202,7 +4202,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d32.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d32.jpg",
         title: "Denver Srk Emperor Deodorant Autograph",
         weight: "50ML",
         id: "BBJ003250",
@@ -4229,7 +4229,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d31.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/3/d31.jpg",
         title: "Denver Sporting Club Goal Perfume ",
         weight: "60ML",
         id: "BBJ003250",
@@ -4256,7 +4256,7 @@ let sortingData = [
         ProductCatagory: "Mens",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/1/31_7_4.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/1/31_7_4.jpg",
         title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
         weight: "100ML",
         id: "BBJ003250",
@@ -4289,7 +4289,7 @@ let sortingData = [
                   Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/0/30_6_4.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/0/30_6_4.jpg",
         title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
         weight: "100ML",
         id: "BBJ003250",
@@ -4322,7 +4322,7 @@ let sortingData = [
                      Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/28_8_4.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/8/28_8_4.jpg",
         title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
         weight: "100ML",
         id: "BBJ003250",
@@ -4352,7 +4352,7 @@ let sortingData = [
                      Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
         title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
         weight: "100ML",
         id: "BBJ003250",
@@ -4382,7 +4382,7 @@ let sortingData = [
         productCatagory: "kids"
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/5/25_13_1.jpg",
         title: "Mamaearth Agent Apple Body Lotion For Kids With & Oat",
         weight: "100ML",
         id: "BBJ003250",
@@ -4412,7 +4412,7 @@ let sortingData = [
         productCatagory: "kids"
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va133.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va133.jpg",
         title: "Mamaearth Milky Soft Shampoo For Kids With & Oat",
         Weight: "100ML",
         id: "BBJ003250",
@@ -4445,7 +4445,7 @@ let sortingData = [
                  Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va96.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va96.jpg",
         titile: "Mamaearth Milky softy bar  For Babies With & Oat",
         weight: "100ML",
         id: "BBJ003250",
@@ -4479,7 +4479,7 @@ let sortingData = [
 
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va94.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va94.jpg",
         title: "Mamaearth Milky softy bar  For BabiesRash cream",
         weight: "100ML",
         id: "BBJ003250",
@@ -4512,7 +4512,7 @@ let sortingData = [
                  Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be176.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be176.jpg",
         title: "Mamaearth chicoo Natural shampooo ",
         weight: "100ML",
         id: "BBJ003250",
@@ -4546,7 +4546,7 @@ let sortingData = [
                  Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm248.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm248.jpg",
         titile: "Mamaearth Perfume body mist 6 Months + - Joyful",
         weight: "100ML",
         id: "BBJ003250",
@@ -4577,7 +4577,7 @@ let sortingData = [
              Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm232.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm232.jpg",
         titile: "Mamaearth Natural Baby Lip Balm For Babies",
         weight: "100ML",
         id: "BBJ003250",
@@ -4610,7 +4610,7 @@ let sortingData = [
                     Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm217.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm217.jpg",
         title: "Mamaearth Gift of Nature Kit For NewBorns And Babies",
         weight: "100ML",
         id: "BBJ003250",
@@ -4638,7 +4638,7 @@ let sortingData = [
         productCatagory: "kids",
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm211.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm211.jpg",
         titile: "Mamaearth Gift of Nature Kit For NewBorns And Babies",
         weight: "100ML",
         id: "BBJ003250",
@@ -4672,7 +4672,7 @@ let sortingData = [
                 Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm199.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm199.jpg",
         title: "Mamaearth Oraganic Bamboo Based Baby And Travel",
         weight: "100ML",
         id: "BBJ003250",
@@ -4706,7 +4706,7 @@ let sortingData = [
                 Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_3.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/36_3.jpg",
         title: "Mamaearth Natural Repellent Mosquitio pathes For Babies",
         weight: "100ML",
         id: "BBJ003250",
@@ -4739,7 +4739,7 @@ let sortingData = [
                 Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm166.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm166.jpg",
         title: "Mamaearth Mineral Based Sunscreen for Babies",
         weight: "100ML",
         id: "BBJ003250",
@@ -4772,7 +4772,7 @@ let sortingData = [
                 Step 3 : Use it daily for best results.`,
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/4/34_5_1.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/4/34_5_1.jpg",
         title: "Mamaearth fruit punch Tooth paste for kids - pack of 2",
         weight: "100ML",
         id: "BBJ003250",
@@ -4806,7 +4806,7 @@ let sortingData = [
 
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm161.jpg",
+        image: "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/m/m/mmm161.jpg",
         title: "Mamaearth Daily moisturizing Baby Lotion",
         weight: "100ML",
         id: "BBJ003250",
@@ -4840,7 +4840,7 @@ let sortingData = [
                 Step 3 : Use it daily for best results.`,
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png',
         title: 'Organic Harvest Cleansing Milk With Essential Oils',
         weight: '(100gm)',
         quantity: 1,
@@ -4858,14 +4858,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8908003416557_1.png'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
         title: 'WOW Skin Science Caffeine Face Serum',
         weight: '(200ml)',
         quantity: 1,
@@ -4883,14 +4883,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/8/680c9508904311903031__3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/8/680c9508904311903031__3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg',
         title: 'WOW Skin Science Moroccan Rose Otto Foaming Body Wash',
         weight: '(250ml)',
         quantity: 1,
@@ -4908,14 +4908,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/c/cca52498904311901341_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/c/c/cca52498904311901341_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/c/cca52498904311901341_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg',
         title: 'Organic Harvest Lavender Essential Oil',
         weight: '(10ml)',
         quantity: 1,
@@ -4933,14 +4933,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/407c3408908003416601_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/407c3408908003416601_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/407c3408908003416601_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg',
         title: 'WOW Skin Science Ubtan Body Wash',
         weight: '(250ml)',
         quantity: 1,
@@ -4958,14 +4958,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/c/dcc62fd8904311902386_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/c/dcc62fd8904311902386_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/c/dcc62fd8904311902386_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg',
         title: 'Mamaearth Vitamin C Nourishing Bathing Soap With Vitamin C And Honey For Skin Illumination',
         weight: '(375gm)',
         quantity: 1,
@@ -4983,14 +4983,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va110.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va111.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va109.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va110.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va111.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
         title: 'Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E - Pack Of 2',
         weight: '(147gm each)',
         quantity: 1,
@@ -5008,14 +5008,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg',
         title: 'Vaadi Herbals Enticing Lemongrass Shower Gel',
         weight: '(300ml)',
         quantity: 1,
@@ -5033,14 +5033,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va14.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va15.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va14.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg',
         title: 'WOW Skin Science Kids Cool-The-Rays Sunscreen Cream - SPF 30+ PA+++',
         weight: '(300ml)',
         quantity: 1,
@@ -5058,14 +5058,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va10.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/v/a/va11.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/v/a/va10.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg',
         title: 'Vaadi Herbals Refreshing Lemon & Basil Shower Gel',
         weight: '(300ml)',
         quantity: 1,
@@ -5083,14 +5083,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be218.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be219.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be218.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg',
         title: 'O3+ D-Tan Liposoluble Wax (Italian Formula)',
         weight: '(800ml)',
         quantity: 1,
@@ -5108,14 +5108,14 @@ let sortingData = [
         productCategory: 'Boady',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be185.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be187.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be186.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be185.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/e/be187.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
         title: 'WOW Skin Science Aloe Vera Multi-Vitamin Face Cream',
         weight: '(50ml)',
         quantity: 1,
@@ -5133,14 +5133,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
         title: 'WOW Skin Science Ubtan Face Serum',
         weight: '(30ml)',
         quantity: 1,
@@ -5158,14 +5158,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
         title: 'WOW Skin Science Himalayan Rose Foaming Face Wash With Built-In Face Brush WITH 50% EXTRA',
         weight: '(150ml)',
         quantity: 1,
@@ -5183,14 +5183,14 @@ let sortingData = [
         productCategory: 'Lips',
         skinType: 'All Skin Type',
         shades: 'Nude Brown',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
         title: 'WOW Skin Science Green Tea Face Moisturizer',
         weight: '(100ml)',
         quantity: 1,
@@ -5208,14 +5208,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
         title: 'WOW Skin Science Pink Rose Clay Face Mask',
         weight: '(200ml)',
         quantity: 1,
@@ -5233,14 +5233,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
         title: 'WOW Skin Science Himalayan Rose Body Lotion',
         weight: '(400ml)',
         quantity: 1,
@@ -5258,14 +5258,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
         title: 'WOW Skin Science Aloe Vera Body Lotion Ultra Light Hydration - No Mineral Oil, Parabens',
         weight: '(400ml)',
         quantity: 1,
@@ -5283,14 +5283,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
         title: 'Lotus Organics+ Bakuchiol Plant Retinol Super Serum',
         weight: '(30ml)',
         quantity: 1,
@@ -5308,14 +5308,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
         title: 'WOW Skin Science UV Water Transparent Sunscreen Spray SPF 30',
         weight: '(100ml)',
         quantity: 1,
@@ -5333,14 +5333,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg',
         title: 'Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E - Pack Of 2',
         weight: '(147gm each)',
         quantity: 1,
@@ -5358,14 +5358,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/9/.9.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg',
         title: 'Dove Intense Repair Shampoo 650ml',
         weight: '(650ml)',
         quantity: 1,
@@ -5383,14 +5383,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/r/e/repair_shampoo_650-1_1_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/r/e/repair_shampoo_650-2_1_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/r/e/repair_shampoo_650-1_1_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/8/680c9508904311903031__1_.jpg',
         title: 'WOW Skin Science 10 In 1 Miracle Hair Oil',
         weight: '(200ml)',
         quantity: 1,
@@ -5408,14 +5408,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/f/efbafe2nywow000083__3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg',
         title: 'WOW Skin Science Himalayan Rose Conditioner',
         weight: '(300ml)',
         quantity: 1,
@@ -5433,14 +5433,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/8/88b239c8904311904281__3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/8/88b239c8904311904281__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/8/88b239c8904311904281__3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg',
         title: 'WOW Skin Science Moroccan Argan Hair Oil - WITH COMB APPLICATOR - Cold Pressed',
         weight: '(100ml)',
         quantity: 1,
@@ -5458,14 +5458,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/4/d4fb39c8904311904267__4_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/d/4/d4fb39c8904311904267__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/4/d4fb39c8904311904267__4_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg',
         title: 'Organic Harvest Masseuscious Damage Control Cleanser With Acai Berry',
         weight: '(200ml)',
         quantity: 1,
@@ -5483,14 +5483,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/a/9a21c478906105615175-4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/a/9a21c478906105615175-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/a/9a21c478906105615175-4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg',
         title: 'Joy Natural Actives Dandruff Control And Scalp Nourish Hair Treatment Mask | With Argan, Ginger, Lemon, Olive & Tea Tree Oils',
         weight: '(150ml)',
         quantity: 1,
@@ -5508,14 +5508,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61eot19e6ll._sl1000_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51x4yt0-ucl._sl1000_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61eot19e6ll._sl1000_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg',
         title: 'Joy Natural Actives Anti Hair Fall And Damage Control Hair Treatment Mask',
         weight: '(150ml)',
         quantity: 1,
@@ -5533,14 +5533,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61y3sma6ofl._sl1000_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/1/51wck34jr0l._sl1000_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61y3sma6ofl._sl1000_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg',
         title: 'WOW Skin Science Green Tea & Tea Tree Anti-Dandruff Shampoo',
         weight: '(300ml)',
         quantity: 1,
@@ -5558,14 +5558,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311903680_2_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311903680_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311903680_2_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg',
         title: 'Organic Harvests Color Protect Quinoa Shampoo, Sulfate-Free Shampoo For Color-Treated Hair',
         weight: '(250ml)',
         quantity: 1,
@@ -5583,14 +5583,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/0/e08092aorgaa00000032_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/0/e08092aorgaa00000032_p.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/0/e08092aorgaa00000032_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg',
         title: 'Mamaearth Tea Tree Beard Oil With Tea Tree & Salicylic Acid For Itch-Free Beard',
         weight: '(30ml)',
         quantity: 1,
@@ -5608,14 +5608,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/t/e/tea-tree-beard-oil.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/t/e/tea-tree-beard-oil_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/t/e/tea-tree-beard-oil.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg',
         title: 'Schwarzkopf Osis+ Curl Honey Curl Cream',
         weight: '(150ml)',
         quantity: 1,
@@ -5633,14 +5633,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/1/81ekxtgclwl._sl1500_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/1/71utdazxekl._sl1500_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/1/81ekxtgclwl._sl1500_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg',
         title: 'Schwarzkopf Professional Bonacure Hyaluronic Moisture Kick Masque Treatment',
         weight: '(200ml)',
         quantity: 1,
@@ -5658,14 +5658,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429534.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg',
         title: 'Schwarzkopf Professional Bonacure Collagen Volume Boost Micellar Shampoo',
         weight: '(250ml)',
         quantity: 1,
@@ -5683,14 +5683,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787429633_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787429633_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787429633_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
         title: 'Schwarzkopf Professional Osis + Session Label Strong Hold Hair Super Dry Fix Spray',
         weight: '(300ml)',
         quantity: 1,
@@ -5708,14 +5708,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Nude Brown',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg',
         title: 'Schwarzkopf Professional OSiS+ Flatliner Heat Protection Hair Spray',
         weight: '(200ml)',
         quantity: 1,
@@ -5733,14 +5733,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787314908_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787314908_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787314908_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg',
         title: 'Schwarzkopf Professional Bonacure Peptide Repair Rescue Sealed Ends',
         weight: '(75ml)',
         quantity: 1,
@@ -5758,14 +5758,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430523_1_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430523_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430523_1_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg',
         title: 'Schwarzkopf Professional Bonacure Peptide Repair Rescue Nutri-Shield Serum',
         weight: '(56ml)',
         quantity: 1,
@@ -5783,14 +5783,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430646_1_1.png'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787430646_2_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/4/0/4045787430646_1_1.png'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg',
         title: 'Mamaearth Cold Pressed Almond Oil & Vitamin E For Healthy Hair Growth',
         weight: '(150ml)',
         quantity: 1,
@@ -5808,14 +5808,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/accc6918906087777182_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg',
         title: 'WOW Skin Science Moroccan Argan Oil Hair Conditioner',
         weight: '(500ml)',
         quantity: 1,
@@ -5833,14 +5833,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/2/a23342b8904311901235_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg',
         title: 'WOW Skin Science Hair Mask For Dry And Damaged Hair',
         weight: '(200ml)',
         quantity: 1,
@@ -5858,14 +5858,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311902027_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311902027_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311902027_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg',
         title: 'Schwarzkopf Professional Osis + Session Label Strong Hold Hair Super Dry Fix Spray',
         weight: '(300ml)',
         quantity: 1,
@@ -5883,14 +5883,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Nude Brown',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/4/0/4045787232233_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg',
         title: 'Lotus Herbals Whiteglow Vitamin C Radiance Cream Spf 20',
         weight: '(50gm)',
         quantity: 1,
@@ -5908,14 +5908,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/i/m/image1_600x.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
         title: 'WOW Skin Science Caffeine Face Serum',
         weight: '(30ml)',
         quantity: 1,
@@ -5933,14 +5933,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/6/3699c478906105612174-4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg',
         title: 'WOW Skin Science Activated Charcoal Face Mask',
         weight: '(200ml)',
         quantity: 1,
@@ -5958,14 +5958,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-3_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/c/activated_charcoal_face_mask2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/a/aae1c478906105612136-3_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/c/activated_charcoal_face_mask4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg',
         title: 'Lotus Organics+ Bakuchiol Plant Retinol Miracle Facial Oil',
         weight: '(15ml)',
         quantity: 1,
@@ -5983,14 +5983,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/0/f0c4f25lotus00000014.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg',
         title: 'Organic Harvest Masseuscious Damage Control Cleanser With Acai Berry',
         weight: '(150ml)',
         quantity: 1,
@@ -6008,14 +6008,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/3/53f7f568906080030383_rvn2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/3/53f7f568906080030383_rvn1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/3/53f7f568906080030383_rvn2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg',
         title: 'WOW Skin Science AM2PM Sunscreen SPF 50 Lotion',
         weight: '(100ml)',
         quantity: 1,
@@ -6033,14 +6033,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901495_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901495_1_1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901495_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg',
         title: 'WOW Skin Science Activated Charcoal Peel Off Face Mask',
         weight: '(100ml)',
         quantity: 1,
@@ -6058,14 +6058,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/f/d/fd794d08904304373124_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/f/d/fd794d08904304373124.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/f/d/fd794d08904304373124_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg',
         title: 'Biotique Advanced Organics Tea Tree Treament Oil Essential Oil For Face',
         weight: '(30ml)',
         quantity: 1,
@@ -6083,14 +6083,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/b/7ba61598904352001284_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/b/7ba61598904352001284_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/b/7ba61598904352001284_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg',
         title: 'WOW Skin Science Kids Cool-The-Rays Sunscreen Cream - SPF 30+ PA+++',
         weight: '(100ml)',
         quantity: 1,
@@ -6108,14 +6108,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901631_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901631_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901631_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg',
         title: 'WOW Skin Science Raw African Shea Body Butter',
         weight: '(200ml)',
         quantity: 1,
@@ -6133,14 +6133,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/e/3eb5e308904311902874_3.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/e/3eb5e308904311902874_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/3/e/3eb5e308904311902874_3.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg',
         title: 'WOW Skin Science Apple Cider Vinegar Face Wash Bottle',
         weight: '(200ml)',
         quantity: 1,
@@ -6158,14 +6158,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/5/759639c8904311903499__3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/5/759639c8904311903499__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/5/759639c8904311903499__3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg',
         title: 'WOW Skin Science Aloe Vera Multi-Vitamin Face Cream',
         weight: '(50ml)',
         quantity: 1,
@@ -6183,14 +6183,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/7/0/70bf0be8904311901860_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/7/0/70bf0be8904311901860_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg',
         title: 'WOW Skin Science Ubtan Face Serum',
         weight: '(30ml)',
         quantity: 1,
@@ -6208,14 +6208,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/e/e/ee32c478906105612372-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/e/e/ee32c478906105612372-4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg',
         title: 'WOW Skin Science Himalayan Rose Foaming Face Wash With Built-In Face Brush WITH 50% EXTRA',
         weight: '(150ml)',
         quantity: 1,
@@ -6233,14 +6233,14 @@ let sortingData = [
         productCategory: 'Lips',
         skinType: 'All Skin Type',
         shades: 'Nude Brown',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/d/8d895398904311905103__5_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__1_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/d/8d895398904311905103__3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg',
         title: 'WOW Skin Science Green Tea Face Moisturizer',
         weight: '(100ml)',
         quantity: 1,
@@ -6258,14 +6258,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/6/1/61a4f818904311904076_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61a4f818904311904076_3.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
         title: 'WOW Skin Science Pink Rose Clay Face Mask',
         weight: '(200ml)',
         quantity: 1,
@@ -6283,14 +6283,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg',
         title: 'WOW Skin Science Himalayan Rose Body Lotion',
         weight: '(400ml)',
         quantity: 1,
@@ -6308,14 +6308,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/b/9b82c478906105611962-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/9/b/9b82c478906105611962-4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg',
         title: 'WOW Skin Science Aloe Vera Body Lotion Ultra Light Hydration - No Mineral Oil, Parabens',
         weight: '(400ml)',
         quantity: 1,
@@ -6333,14 +6333,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/a/0/a093c478906105615038-2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/0/a093c478906105615038-3.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
         title: 'Lotus Organics+ Bakuchiol Plant Retinol Super Serum',
         weight: '(30ml)',
         quantity: 1,
@@ -6358,14 +6358,14 @@ let sortingData = [
         productCategory: 'Hair',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901587_1__1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/9/8904311901587_1__1.jpg',
         title: 'WOW Skin Science UV Water Transparent Sunscreen Spray SPF 30',
         weight: '(100ml)',
         quantity: 1,
@@ -6383,14 +6383,14 @@ let sortingData = [
         productCategory: 'Body',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpgg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/8/9/8904311901587_2_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg',
         title: 'WOW Skin Science Pink Rose Clay Face Mask',
         weight: '(200ml)',
         quantity: 1,
@@ -6408,14 +6408,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/2/b2917c28904311900818-_2_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/2/b2917c28904311900818-_3_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
             Step 2: Wait 30 seconds for the adhesive to become sticky.
             Step 3: Adhere the strip to your lash line and gently press it in place.
             Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg',
         title: 'Miss Claire Eyelash Glue - Clear Tone',
         weight: '(50gm)',
         quantity: 1,
@@ -6433,14 +6433,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/produ…ae888adf23d57cf627ad/5/1/51ccwnye-ks._sl1094_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg', 'https://www.beautybebo.com/media/catalog/produ…ae888adf23d57cf627ad/5/1/51ccwnye-ks._sl1094_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/6/3699c478906105612174-2.jpg',
         title: 'Maybelline New York Fit Me Primer - Dewy+Smooth',
         weight: '(30ml)',
         quantity: 1,
@@ -6458,14 +6458,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_4.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/b/5b990e16902395773146_4.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg',
         title: 'L Oreal Paris Infallible Full Wear Concealer',
         weight: '(15ml)',
         quantity: 1,
@@ -6483,14 +6483,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/2/a2860a56902395735908_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/9/6902395735908_0.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/a/2/a2860a56902395735908_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg',
         title: 'Faces Canada Ultime Pro Matte Play Eyeliner',
         weight: '(2.5ml)',
         quantity: 1,
@@ -6508,14 +6508,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61hxjstvins._sl1500_.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/5/1/51c18ra5qzs._sl1500_.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/6/1/61hxjstvins._sl1500_.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
         title: 'L Oreal Paris Infallible Lasting Primer',
         weight: '(30ml)',
         quantity: 1,
@@ -6533,14 +6533,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg',
         title: 'LOreal Paris Flash Cat Eye Eyeliner - Black',
         weight: '(0.6gm)',
         quantity: 1,
@@ -6558,14 +6558,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw127.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw126.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/s/w/sw127.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg',
         title: 'LOreal Paris Kajal Magique - Supreme Black',
         weight: '(.35gm)',
         quantity: 1,
@@ -6583,14 +6583,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/3/23_11.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/l/lll_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/3/23_11.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg',
         title: 'LOreal Paris False Lash Superstar Mascara - Blac',
         weight: '(13ml)',
         quantity: 1,
@@ -6608,14 +6608,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor26.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor28.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor27.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor26.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor28.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg',
         title: 'LOreal Paris Volume Million Lashes Mascara - Extra-Black',
         weight: '(10.7ml)',
         quantity: 1,
@@ -6633,14 +6633,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor25.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/o/lor24.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/l/o/lor25.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg',
         title: 'Maybelline New York Fit Me Concealer - 10 Light',
         weight: '(6.8ml)',
         quantity: 1,
@@ -6658,14 +6658,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/_/2/.28.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/_/2/.29.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/_/2/.28.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg',
         title: 'Maybelline New York The Blushed Nudes Eye Shadow Palette',
         weight: '(9gm)',
         quantity: 1,
@@ -6683,14 +6683,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/3/c39.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/4/c40.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/c/3/c39.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg',
         title: 'Maybelline New York The Nudes Eyeshadow Palette',
         weight: '(9gm)',
         quantity: 1,
@@ -6708,14 +6708,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/1/m1.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/2/m2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/1/2/129_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/1/m1.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/m/2/m2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg',
         title: 'Maybelline New York Facestudio Master Blush Color & Highlight Kit',
         weight: '(13.5gm)',
         quantity: 1,
@@ -6733,14 +6733,14 @@ let sortingData = [
         productCategory: 'Face',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/_/2_169_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/_/1_208_2.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/2/_/2_169_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/_/1_208_2.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg',
         title: 'Maybelline New York Strobing Stick Set',
         weight: '(5gm)',
         quantity: 1,
@@ -6758,14 +6758,14 @@ let sortingData = [
         productCategory: 'Lips',
         skinType: 'All Skin Type',
         shades: 'Nude Brown',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/t/stick.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg',
         title: 'Blue Heaven Lipstick Walk Free',
         weight: '(4gm)',
         quantity: 1,
@@ -6783,14 +6783,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/w/a/walkfree_14_1_1_25_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/w/a/walk-free-01_1_1_1_1_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/w/a/walkfree_14_1_1_25_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg',
         title: 'Blue Heaven Flawless Makeup Oil Free Base Primere',
         weight: '(30gm)',
         quantity: 1,
@@ -6808,14 +6808,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/bel1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg',
         title: 'Blue Heaven Saphire Make Up Translucent Powder - Natural - Pack Of 2',
         weight: '(20gm Each)',
         quantity: 1,
@@ -6833,14 +6833,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/b/bbv.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/s/dsdssds.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/b/bbbb_1_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/b/bbv.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/d/s/dsdssds.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png',
         title: 'Blue Heaven Artisto Twin One Eye Kit Kajal',
         weight: '(0.55ml + 0.30gm)',
         quantity: 1,
@@ -6858,14 +6858,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/h/2/h2_1.png', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/h/bh3_1.png'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/h/bh1_1.png', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/h/2/h2_1.png', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/b/h/bh3_1.png'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/3/83cff25lotus00000011.jpg',
         title: 'Blue Heaven Artisto Kajal',
         weight: '(3.25gm)',
         quantity: 1,
@@ -6883,14 +6883,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/7/277cf77missc00000081_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg',
         title: 'Blue Heaven Walk Free Matte Eyeliner - Yellow Pack',
         weight: '(9ml)',
         quantity: 1,
@@ -6908,14 +6908,14 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/0/0/0001.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/-/1---copy.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/0/1/01_2_3.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/0/0/0001.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/-/1---copy.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.
         Step 4: Ensure the cap is secure post every use to avoid the glue from drying out.`
     },
     {
-        image: 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
+        image: 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg',
         title: 'L Oreal Paris Infallible Lasting Primer',
         weight: '(30ml)',
         quantity: 1,
@@ -6933,7 +6933,7 @@ let sortingData = [
         productCategory: 'Eyes',
         skinType: 'All Skin Type',
         shades: 'Peach Rose',
-        multipleImages: ['https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/pub/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
+        multipleImages: ['https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/122_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/123_1_2.jpg', 'https://www.beautybebo.com/media/catalog/product/cache/a19d5a96b74d37bf18297d1e71af48ed/1/2/124_1_1.jpg'],
         howToUse: `Step 1: Dot a thin layer of glue straight from the applicator along the band of the false lash from corner to corner.
         Step 2: Wait 30 seconds for the adhesive to become sticky.
         Step 3: Adhere the strip to your lash line and gently press it in place.

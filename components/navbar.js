@@ -2,7 +2,7 @@ function navbar() {
     return `
     <div id="nav-top">
     <div><a href="index.html"><img id="logo"
-                src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png" alt=""></a></div>
+                src="https://www.beautybebo.com/media/logo/default/beautybebo_1.png" alt=""></a></div>
     <div id="search">
         <div id="Card">
             <select>
@@ -52,7 +52,7 @@ function navbar() {
     <div class="main">
         <div class="nav">
             <ul>
-                <li><a href=""> MAKEUP</a>
+                <li><a href="makup.html"> MAKEUP</a>
                     <div class="megamenu">
                         <div class="content">
                             <h4>FACE</h4>
@@ -121,56 +121,16 @@ function navbar() {
                         </div>
                     </div>
                 </li>
-                <li><a href="">SKIN</a>
-                    <div class="megamenu">
-                        <div class="content">
-                            <h4>EYE CARE</h4>
-                            <p>Dark Circle</p>
-                            <p>Eye Contour</p>
-                            <p>Eye Cream</p>
-                            <p>Eye Masks</p>
-                            <p>Eye Serums</p>
-                            <p>Puffiness</p>
-                            <p>Under Eye Creams</p>
-                            <p>Under Eye Wrinkles</p>
-                        </div>
-                        <div class="content">
-                            <h4>FACE CARE</h4>
-                            <p>Anti-Ageing Creams</p>
-                            <p>Bleach Cream</p>
-                            <p>Face Wash</p>
-                            <p>Facial Wipes</p>
-                            <p>Face Oil</p>
-                            <p>Face Cleansers</p>
-                            <p>Facial Kits</p>
-                            <p>Face Tools </p>
-                            <p>Moisturizer </p>
-                            <p>Mask & Peels </p>
-                            <p>Serum </p>
-                            <p> Toner & Astringents </p>
-                        </div>
-                        <div class="content">
-                            <h4>Body CARE</h4>
-                            <p>All Cream</p>
-                            <p>Body Moisturizer</p>
-                            <p>Body Toners</p>
-                            <p>Body Sun Care</p>
-                            <p>Brightening Lotion</p>
-                            <p>Dark Circles & Wrinkles</p>
-                            <p>Day Cream</p>
-                            <p>Foot Cream</p>
-                            <p>Hair Remover Cream</p>
-                            <p>Hand Creams</p>
-                            <p>Hands & Feet</p>
-                            <p>Kits & Combos</p>
-                            <p>Night Cream</p>
-                            <p>Neck Cream</p>
-                        </div>
-                        <div class="img">
-                            <img src="https://www.beautybebo.com/pub/media/mega-menu/SKIN_cATA.jpg" alt="">
+                <li><a href="fragrance.html">FRAGRANCE</a>
+                    <div class="frag">
+                        <div class="nance">
+                            <p>Perfumes</p>
+                            <p>Deodorants roll ons</p>
+                            <p>Body Mist/Spray</p>
                         </div>
                     </div>
                 </li>
+               
                 <li><a href="#">HAIR</a>
                     <div class="megamenu">
                         <div class="content">
@@ -195,7 +155,7 @@ function navbar() {
                             <p>Shampoo</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/pub/media/mega-menu/hair_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/media/mega-menu/hair_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
@@ -225,7 +185,7 @@ function navbar() {
                             <p>Shower Gel</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/pub/media/mega-menu/personal_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/media/mega-menu/personal_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
@@ -250,20 +210,61 @@ function navbar() {
                             <p>Personal Care</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/pub/media/mega-menu/mom_baby_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/media/mega-menu/mom_baby_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
-                <li><a href="#">FRAGRANCE</a>
-                    <div class="frag">
-                        <div class="nance">
-                            <p>Perfumes</p>
-                            <p>Deodorants roll ons</p>
-                            <p>Body Mist/Spray</p>
-                        </div>
+                <li><a href="skin.html">SKIN</a>
+                <div class="megamenu">
+                    <div class="content">
+                        <h4>EYE CARE</h4>
+                        <p>Dark Circle</p>
+                        <p>Eye Contour</p>
+                        <p>Eye Cream</p>
+                        <p>Eye Masks</p>
+                        <p>Eye Serums</p>
+                        <p>Puffiness</p>
+                        <p>Under Eye Creams</p>
+                        <p>Under Eye Wrinkles</p>
                     </div>
-                </li>
-                <li><a href="#">AYURVEDA</a>
+                    <div class="content">
+                        <h4>FACE CARE</h4>
+                        <p>Anti-Ageing Creams</p>
+                        <p>Bleach Cream</p>
+                        <p>Face Wash</p>
+                        <p>Facial Wipes</p>
+                        <p>Face Oil</p>
+                        <p>Face Cleansers</p>
+                        <p>Facial Kits</p>
+                        <p>Face Tools </p>
+                        <p>Moisturizer </p>
+                        <p>Mask & Peels </p>
+                        <p>Serum </p>
+                        <p> Toner & Astringents </p>
+                    </div>
+                    <div class="content">
+                        <h4>Body CARE</h4>
+                        <p>All Cream</p>
+                        <p>Body Moisturizer</p>
+                        <p>Body Toners</p>
+                        <p>Body Sun Care</p>
+                        <p>Brightening Lotion</p>
+                        <p>Dark Circles & Wrinkles</p>
+                        <p>Day Cream</p>
+                        <p>Foot Cream</p>
+                        <p>Hair Remover Cream</p>
+                        <p>Hand Creams</p>
+                        <p>Hands & Feet</p>
+                        <p>Kits & Combos</p>
+                        <p>Night Cream</p>
+                        <p>Neck Cream</p>
+                    </div>
+                    <div class="img">
+                        <img src="https://www.beautybebo.com/media/mega-menu/SKIN_cATA.jpg" alt="">
+                    </div>
+                </div>
+            </li>
+                <li><a href="ayurveda.html">AYURVEDA</a>
                     <div class="megamenu">
                         <div class="content">
                             <h4>NATURAL SKIN CARE</h4>
@@ -289,7 +290,7 @@ function navbar() {
                             <p>Shampoo</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/pub/media/mega-menu/ayurveda_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/media/mega-menu/ayurveda_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
@@ -345,11 +346,9 @@ function navbar() {
         </div>
         <div class="cart">
             <div class="cartp">
-                <img src="https://delightful-duckanoo-17fff8.netlify.app/cart-38-24.png" alt="">
-                <div class="c"><span>My Cart - </span></div>
-                <a href="cart.html">
-                    <span id="mycart"> </span>
-                </a>
+             <img src="https://delightful-duckanoo-17fff8.netlify.app/cart-38-24.png" alt="">
+                <div class="c"><span id="mycart"><a href="/cart.html">My Cart-</a></span></div>
+        
             </div>
         </div>
     </div>
@@ -359,3 +358,4 @@ function navbar() {
     `
 }
 export default navbar;
+
