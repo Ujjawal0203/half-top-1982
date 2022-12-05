@@ -29,7 +29,7 @@ const swiper = new Swiper('.swiper', {
   let makeup = [
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/5/85ee43en_3401575390447-01.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/5/85ee43en_3401575390447-01.jpg",
       title: "bioderma sensibio h2o makeup removing micellar cleansing",
       weight: "(250ml)",
       quantity: 1,
@@ -41,7 +41,7 @@ const swiper = new Swiper('.swiper', {
     },
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/c/8c9c39226479_s1-8901030897429.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/c/8c9c39226479_s1-8901030897429.jpg",
       title: "indulekha bringha hair strengthening lepam",
       weight: "(200ml)",
       quantity: 1,
@@ -53,7 +53,7 @@ const swiper = new Swiper('.swiper', {
     },
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/c/3cabc5a8901030805080_2.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/3/c/3cabc5a8901030805080_2.jpg",
       title: "sunsilk almond & honey shampoo",
       weight: "(370ml)",
       quantity: 1,
@@ -65,7 +65,7 @@ const swiper = new Swiper('.swiper', {
     },
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/e/8e0ca8ctrese00000040_1.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/e/8e0ca8ctrese00000040_1.jpg",
       title: "TRESemme Pro Pure Damage Recovery Shampoo",
       weight: "(390ml)",
       quantity: 1,
@@ -149,7 +149,7 @@ const swiper = new Swiper('.swiper', {
   let popular = [
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/5/55c1d29plumx00000130_5_1.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/5/5/55c1d29plumx00000130_5_1.jpg",
       title: "Plum Bodylovin' Feelin' So Rose Body Mist",
       weight: "(250ml)",
       quantity: 1,
@@ -161,7 +161,7 @@ const swiper = new Swiper('.swiper', {
     },
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/6/266b211plumx00000054_1.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/2/6/266b211plumx00000054_1.jpg",
       title: "Plum Bodylovin' Orchid You Not Body Mist",
       weight: "(150ml)",
       quantity: 1,
@@ -173,7 +173,7 @@ const swiper = new Swiper('.swiper', {
     },
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/1/8123211plumx00000053_1.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/8/1/8123211plumx00000053_1.jpg",
       title: "Plum Bodylovin' Trippin' Mimosas Body Mist",
       weight: "(150ml)",
       quantity: 1,
@@ -185,7 +185,7 @@ const swiper = new Swiper('.swiper', {
     },
     {
       image:
-        "https://www.beautybebo.com/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/f/9fd2fca8906087777243__1_.jpg",
+        "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/9/f/9fd2fca8906087777243__1_.jpg",
       title: "Mamaearth Eau De Parfum For A Fragrance As Unique As You",
       weight: "(50ml)",
       quantity: 1,

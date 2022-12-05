@@ -2,7 +2,7 @@ function navbar() {
     return `
     <div id="nav-top">
     <div><a href="index.html"><img id="logo"
-                src="https://www.beautybebo.com/media/logo/default/beautybebo_1.png" alt=""></a></div>
+                src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png" alt=""></a></div>
     <div id="search">
         <div id="Card">
             <select>
@@ -155,7 +155,7 @@ function navbar() {
                             <p>Shampoo</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/media/mega-menu/hair_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/pub/media/mega-menu/hair_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
@@ -185,7 +185,7 @@ function navbar() {
                             <p>Shower Gel</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/media/mega-menu/personal_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/pub/media/mega-menu/personal_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
@@ -210,7 +210,7 @@ function navbar() {
                             <p>Personal Care</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/media/mega-menu/mom_baby_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/pub/media/mega-menu/mom_baby_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
@@ -260,7 +260,7 @@ function navbar() {
                         <p>Neck Cream</p>
                     </div>
                     <div class="img">
-                        <img src="https://www.beautybebo.com/media/mega-menu/SKIN_cATA.jpg" alt="">
+                        <img src="https://www.beautybebo.com/pub/media/mega-menu/SKIN_cATA.jpg" alt="">
                     </div>
                 </div>
             </li>
@@ -290,7 +290,7 @@ function navbar() {
                             <p>Shampoo</p>
                         </div>
                         <div class="img">
-                            <img src="https://www.beautybebo.com/media/mega-menu/ayurveda_cata.jpg" alt="">
+                            <img src="https://www.beautybebo.com/pub/media/mega-menu/ayurveda_cata.jpg" alt="">
                         </div>
                     </div>
                 </li>
